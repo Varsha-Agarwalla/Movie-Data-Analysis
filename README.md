@@ -1,7 +1,8 @@
 # Movie-Data-Analysis
 What makes a movie popular? Predicted the score given by audience to a movie using Linear Regression
 
-You will find the project code at the link: http://rpubs.com/Varsha_agarwalla/443952
+You will find the project code at the link: http://rpubs.com/Varsha_agarwalla/443952 
+The data and codebook are also attached.
 
 According to the codebook, these are randomly sampled 651 movies that were produced before 2016. It is an observational study.
 
